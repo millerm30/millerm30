@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millerm30
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning html, css, javascript, github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
