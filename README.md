@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development and all things technical!
 - 🌱 I’m currently learning html, css, vanilla javascript.
 - 🧑‍💻 Enrolled as a student with [Get-Coding](http://www.get-codeing.ca) to become a Full Stack Developer.
-- - [@millerm30](https://www.github.com/millerm30)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/millerm30" target="blank"><img align="center" src="https://github.com/millerm30/todo/blob/main/images/twitter.svg" alt="millerm30" height="30" width="40" /></a>
