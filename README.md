@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millerm30
 - 👀 I’m interested in software development and all things technical!
-- 🌱 I’m currently learning html, css, vanilla javascript.
+- 🌱 I’m currently learning html, css, vanilla javascript and now ReactJS.
 - 🧑‍💻 Enrolled as a student with [Get-Coding](http://www.get-codeing.ca) to become a Full Stack Developer.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
