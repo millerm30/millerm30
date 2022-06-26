@@ -8,7 +8,7 @@
 <img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/css3-original.svg" alt="CSS3" height="30" width="40" />
 <img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/javascript-original.svg" alt="JavaScript" height="30" width="40" />
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/react-original.svg" alt="React" height="30" width="40" /></a>
-<img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/tailwindcss-original-wordmark.svg" alt="Tailwindcss" height="100" width="100" />
+<a href="https://tailwindcss.com target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/tailwindcss-original-wordmark.svg" alt="Tailwindcss" height="100" width="100" /></a>
 <img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/git-original.svg" alt="Git" height="30" width="40" />
 <img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/github-original.svg" alt="Github" height="30" width="40" />
 <img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/vscode-original.svg" alt="Visual Studio Code" height="30" width="40" /
