@@ -4,9 +4,9 @@
 - 🧑‍💻 I'm currently enrolled as a student with [Get-Coding](http://www.get-codeing.ca) to become a Full Stack Developer.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/html5-original.svg" alt="HTML5" height="30" width="40" />
-<img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/css3-original.svg" alt="CSS3" height="30" width="40" />
-<img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/javascript-original.svg" alt="JavaScript" height="30" width="40" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/html5-original.svg" alt="HTML5" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/css3-original.svg" alt="CSS3" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/javascript-original.svg" alt="JavaScript" height="30" width="40" /></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/react-original.svg" alt="React" height="30" width="40" /></a>
 <a href="https://tailwindcss.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/tailwindcss-original-wordmark.svg" alt="Tailwindcss" height="100" width="100" /></a>
 <a href="https://git-scm.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/git-original.svg" alt="Git" height="30" width="40" /></a>
