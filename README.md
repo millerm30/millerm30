@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in software development and all things technical!
-- 🌱 I have recently completed learning html, css, vanilla javascript and now learning ReactJS & Tailwind.
+- 🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS.
 - 🧑‍💻 I'm currently enrolled as a student with [Get-Coding](http://www.get-codeing.ca) to become a Full Stack Developer.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
