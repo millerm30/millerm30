@@ -1,8 +1,8 @@
 <h3 align="left">About Me</h3>
-- 👋 Hi, I’m Mike
-- 👀 I’m interested in software development and all things technical!
-- 🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS.
-- 🧑‍💻 I'm currently enrolled as a student with [Get-Coding](http://www.get-codeing.ca) to become a Full Stack Developer.
+<li>👋 Hi, I’m Mike</li>
+<li>👀 I’m interested in software development and all things technical!</li>
+<li>🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS.</li>
+<li>🧑‍💻 I'm currently enrolled as a student with <a href="https://www.getcoding.ca">Get Coding</a> to become a Full Stack Developer.</li>
 <h3 align="left">Langueages || FrameWorks || Tools</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/html5-original.svg" alt="HTML5" height="40" width="40" /></a>
