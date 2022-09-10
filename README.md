@@ -11,7 +11,7 @@
 <a href="https://git-scm.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/git-original.svg" alt="Git" height="40" width="40" /></a>
 <a href="https://github.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/GitHubLogo.png" alt="Github" height="40" width="40" /></a>
 <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/vscode-original.svg" alt="Visual Studio Code" height="40" width="40" /></a>
-<a href="https://astro.build/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/Astro.png" alt="Astro" height="40" width="120" /></a>
+<a href="https://astro.build/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/AstroLogo.png" alt="Astro" height="40" width="40" /></a>
 <a href="https://tailwindcss.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/Tailwindcss.png" alt="Tailwindcss" height="40" width="120" /></a>
 </p>
 <p align="left">
