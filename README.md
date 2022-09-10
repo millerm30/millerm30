@@ -1,3 +1,4 @@
+<h3 align="left">About Me</h3>
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in software development and all things technical!
 - 🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS.
@@ -19,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millerm30&show_icons=true&locale=en&layout=compact" alt="millerm30" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://twitter.com/millerm30" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/twitter.svg" alt="millerm30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-miller-0aa2bb229" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/linked-in-alt.svg" alt="millerm30" height="30" width="40" /></a>
