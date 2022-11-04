@@ -1,7 +1,7 @@
 <h3 align="left">About Me</h3>
 <li>👋 Hi, I’m Mike</li>
 <li>👀 I’m interested in software development and all things technical!</li>
-<li>🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS.</li>
+<li>🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS/Express and SQL (MySQL/PostgreSQL)</li>
 <li>🧑‍💻 I'm currently enrolled as a student with <a href="https://www.getcoding.ca">Get Coding</a> to become a Full Stack Developer.</li>
 <h3 align="left">Langueages || FrameWorks || Tools</h3>
 <p align="left">
