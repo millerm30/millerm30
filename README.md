@@ -3,26 +3,39 @@
 <li>👀 I’m interested in software development and all things technical!</li>
 <li>🌱 I have recently completed learning html, css, vanilla javascript, ReactJS & Tailwind and now learning backend with NodeJS/Express and SQL (MySQL/PostgreSQL)</li>
 <li>🧑‍💻 I'm currently enrolled as a student with <a href="https://www.getcoding.ca">Get Coding</a> to become a Full Stack Developer.</li>
-<h3 align="left">Langueages || FrameWorks || Tools</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/html5-original.svg" alt="HTML5" height="40" width="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/css3-original.svg" alt="CSS3" height="40" width="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a>
-<a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/react-original.svg" alt="React" height="40" width="40" /></a>
-<a href="https://git-scm.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/git-original.svg" alt="Git" height="40" width="40" /></a>
-<a href="https://github.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/GitHubLogo.png" alt="Github" height="40" width="40" /></a>
-<a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/vscode-original.svg" alt="Visual Studio Code" height="40" width="40" /></a>
-<a href="https://astro.build/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/AstroLogo.png" alt="Astro" height="40" width="40" /></a>
-<a href="https://tailwindcss.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/tailwindcssLogo.png" alt="Tailwindcss" height="40" width="40" /></a>
-<a href="https://nodejs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/NodeJS.png" alt="NodeJS" height="40" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/posgresql.png" alt="PostgreSQL" height="40" width="40" /></a>
-<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/mysql.png" alt="MySQL" height="40" width="40" /></a>
-<a href="https://www.aws.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/aws.png" alt="AWS" height="40" width="40" /></a>
-<a href="https://www.postman.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/postman.png" alt="Postman" height="40" width="40" /></a>
-<a href="https://www.https://www.npmjs.com/.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/npm-original-wordmark.svg" alt="NPM" height="40" width="40" /></a>
-</p>
+<br>
+<table>
+ <thead>
+  <tr>
+   <th colspan=5 align="center">Languages || Framworks || Tools</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/html5-original.svg" alt="HTML5" height="40" width="40" /></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/css3-original.svg" alt="CSS3" height="40" width="40" /></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a></td>
+   <td><a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/react-original.svg" alt="React" height="40" width="40" /></a></td>
+   <td><a href="https://git-scm.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/git-original.svg" alt="Git" height="40" width="40" /></a></td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/GitHubLogo.png" alt="Github" height="40" width="40" /></a></td>
+   <td><a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/vscode-original.svg" alt="Visual Studio Code" height="40" width="40" /></a></td>
+   <td><a href="https://astro.build/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/AstroLogo.png" alt="Astro" height="40" width="40" /></a></td>
+   <td><a href="https://tailwindcss.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/tailwindcssLogo.png" alt="Tailwindcss" height="40" width="40" /></a></td>
+   <td><a href="https://nodejs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/NodeJS.png" alt="NodeJS" height="40" width="40" /></a></td>
+  </tr>
+  <tr>
+   <td><a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/posgresql.png" alt="PostgreSQL" height="40" width="40" /></a></td>
+   <td><a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/mysql.png" alt="MySQL" height="40" width="40" /></a></td>
+   <td><a href="https://www.aws.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/aws.png" alt="AWS" height="40" width="40" /></a></td>
+   <td><a href="https://www.postman.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/postman.png" alt="Postman" height="40" width="40" /></a></td>
+   <td><a href="https://www.https://www.npmjs.com/.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/npm-original-wordmark.svg" alt="NPM" height="40" width="40" /></a>
+</p></td>
+  </tr>
+ </tbody>
+</table>
+<br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millerm30&show_icons=true&locale=en&layout=compact" alt="millerm30" />
 </p>
