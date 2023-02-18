@@ -17,6 +17,13 @@
 <a href="https://nodejs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/NodeJS.png" alt="NodeJS" height="40" width="40" /></a>
 </p>
 <p align="left">
+<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/posgresql.png" alt="PostgreSQL" height="40" width="40" /></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/mysql.png" alt="MySQL" height="40" width="40" /></a>
+<a href="https://www.aws.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/aws.png" alt="AWS" height="40" width="40" /></a>
+<a href="https://www.postman.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/postman.png" alt="Postman" height="40" width="40" /></a>
+<a href="https://www.https://www.npmjs.com/.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/npm-original-wordmark.svg" alt="NPM" height="40" width="40" /></a>
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millerm30&show_icons=true&locale=en&layout=compact" alt="millerm30" />
 </p>
 
