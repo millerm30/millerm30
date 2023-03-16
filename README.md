@@ -2,7 +2,7 @@
 <li>👋 Hi, I’m Mike</li>
 <li>👀 I’m interested in software development and all things technical!</li>
 <li>🧑‍💻 I'm currently enrolled as a student with <a href="https://www.getcoding.ca">Get Coding</a> to become a Full Stack Software Developer.</li>
-<li>🌱 I have completed learning html, css, javascript, ReactJS & Tailwind as well as backend technologies with NodeJS/Express and SQL (MySQL/PostgreSQL) as well as AWS. Getting ready to start my last block in CI/CD and testing to complete my studies with Get Coding.</li>
+<li>🌱 I have completed learning html, css, javascript, ReactJS & Tailwind as well as backend technologies with NodeJS/Express and SQL (MySQL/PostgreSQL) as well as AWS. Getting ready to start my last block in CI/CD and unit testing to complete my studies with Get Coding.</li>
 <br>
 <table>
  <thead>
