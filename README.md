@@ -1,8 +1,8 @@
 <h3 align="left">About Me</h3>
-<li>👋 Hi, I’m Mike</li>
-<li>👀 I’m interested in software development and all things technical!</li>
-<li>🧑‍💻 I'm currently enrolled as a student with <a href="https://www.getcoding.ca">Get Coding</a> to become a Full Stack Software Developer.</li>
-<li>🌱 I have completed learning html, css, javascript, ReactJS & Tailwind as well as backend technologies with NodeJS/Express and SQL (MySQL/PostgreSQL) as well as AWS. Getting ready to start my last block in CI/CD and unit testing to complete my studies with Get Coding.</li>
+<p>👋 Hello, I'm Mike - a Full Stack Software Developer with a passion for creating innovative and user-friendly applications.</p>
+<p>👀 I am passionate about software development and enjoy exploring all aspects of technology.</li>
+<p>🧑‍💻 I have completed my studies as a Full Stack Software Developer with <a href="https://www.getcoding.ca">Get Coding</a> and am excited to apply my knowledge to real-world projects</p>
+<p>🌱 As a Full Stack Software Developer, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, and Tailwind. In addition, I am skilled in backend technologies, including NodeJS/Express and SQL (MySQL/PostgreSQL), AWS, CI/CD, and unit testing.</p>
 <br>
 <table>
  <thead>
