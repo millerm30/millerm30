@@ -36,10 +36,11 @@
  </tbody>
 </table>
 <br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=millerm30&show_icons=true&locale=en&layout=compact" alt="millerm30" />
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millerm30&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=millerm30&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 <h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://twitter.com/millerm30" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/twitter.svg" alt="millerm30" height="30" width="40" /></a>
