@@ -29,6 +29,7 @@
   <tr>
    <td><a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/posgresql.png" alt="PostgreSQL" height="40" width="40" /></a></td>
    <td><a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/mysql.png" alt="MySQL" height="40" width="40" /></a></td>
+   <td><a href="https://www.graphql.org/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/mysql.png" alt="GraphQL" height="40" width="40" /></a></td>
    <td><a href="https://www.postman.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/postman.png" alt="Postman" height="40" width="40" /></a></td>
    <td><a href="https://www.https://www.npmjs.com/.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/npm-original-wordmark.svg" alt="NPM" height="40" width="40" /></a>
 </p></td>
