@@ -1,8 +1,8 @@
 <h3 align="left">About Me</h3>
-<p>👋 Hello, I'm Mike - a Full Stack Software Developer with a passion for creating innovative and user-friendly applications.</p>
-<p>👀 I am passionate about software development and enjoy exploring all aspects of technology.</li>
-<p>🧑‍💻 I have completed my studies as a Full Stack Software Developer with <a href="https://www.getcoding.ca">Get Coding</a> and am excited to apply my knowledge to real-world projects.</p>
-<p>🌱 As a Full Stack Software Developer, I have a deep understanding of technologies such as HTML, CSS, JavaScript, ReactJS, and Tailwind. In addition, I am skilled in backend technologies, including NodeJS/Express and SQL (MySQL/PostgreSQL), AWS, CI/CD, and unit testing.</p>
+<p>👋 Hello, I'm Mike - a versatile Full-Stack & Mobile Application Developer passionate about crafting seamless digital experiences across platforms.</p>
+<p>👀 With a strong foundation in Full Stack development, I've ventured into the realm of mobile app development using technologies like React Native. My journey has led me to specialize in AWS services, particularly AWS Amplify, Lambda, DynamoDB, and GraphQL, enabling me to architect scalable and efficient solutions.</li>
+<p>🧑‍💻 Equipped with this toolkit, I build dynamic web applications with responsive interfaces and robust backend infrastructures. Simultaneously, I leverage React Native's cross-platform capabilities to deliver native mobile experiences that seamlessly integrate with backend services.</p>
+<p>🌱 I'm enthusiastic about leveraging technology to solve complex problems and am always eager to explore new tools and frameworks. Whether it's optimizing backend processes with serverless architectures or fine-tuning user interfaces for mobile devices, I'm dedicated to delivering high-quality solutions that exceed expectations.</p>
 <br>
 <table>
  <thead>
