@@ -44,7 +44,6 @@
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
-<a href="https://twitter.com/millerm30" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/twitter.svg" alt="millerm30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-miller-0aa2bb229" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/linked-in-alt.svg" alt="millerm30" height="30" width="40" /></a>
 </p>
 
