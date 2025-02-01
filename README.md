@@ -1,8 +1,8 @@
 <h3 align="left">About Me</h3>
-<p>👋 Hello, I'm Mike - a versatile Full-Stack & Mobile Application Developer passionate about crafting seamless digital experiences across platforms.</p>
-<p>👀 With a strong foundation in Full Stack development, I've ventured into the realm of mobile app development using technologies like React Native. My journey has led me to specialize in AWS services, particularly AWS Amplify, Lambda, DynamoDB, and GraphQL, enabling me to architect scalable and efficient solutions.</li>
-<p>🧑‍💻 Equipped with this toolkit, I build dynamic web applications with responsive interfaces and robust backend infrastructures. Simultaneously, I leverage React Native's cross-platform capabilities to deliver native mobile experiences that seamlessly integrate with backend services.</p>
-<p>🌱 I'm enthusiastic about leveraging technology to solve complex problems and am always eager to explore new tools and frameworks. Whether it's optimizing backend processes with serverless architectures or fine-tuning user interfaces for mobile devices, I'm dedicated to delivering high-quality solutions that exceed expectations.</p>
+<p>Hey, I'm Mike! 🚀</p>
+<p>I'm a Full-Stack Software Developer who loves turning complex problems into clean, scalable solutions. I specialize in React, TypeScript, AWS, and serverless architectures, building high-performance web and mobile applications.</p>
+
+<p>With experience in React Native, I’ve developed cross-platform mobile apps that seamlessly integrate with cloud-based backends. Always exploring new tech, optimizing workflows, and refining the craft—because great software isn’t just built, it’s engineered.</p>
 <br>
 <table>
  <thead>
