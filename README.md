@@ -1,8 +1,10 @@
 <h3 align="left">About Me</h3>
 <p>Hey, I'm Mike! 🚀</p>
-<p>I'm a Full-Stack Software Developer who loves turning complex problems into clean, scalable solutions. I specialize in React, TypeScript, AWS, and serverless architectures, building high-performance web and mobile applications.</p>
+<p>Software Developer who enjoys building things for the web and mobile. 🛠️
 
-<p>With experience in React Native, I’ve developed cross-platform mobile apps that seamlessly integrate with cloud-based backends. Always exploring new tech, optimizing workflows, and refining the craft—because great software isn’t just built, it’s engineered.</p>
+I work with React, TypeScript, and AWS to create clean, user-friendly applications. I'm always learning and tinkering with new tech.
+
+</p>
 <br>
 <table>
  <thead>
