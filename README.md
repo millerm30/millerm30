@@ -2,8 +2,6 @@
 <p>Hey, I'm Mike! 🚀</p>
 <p>Software Developer who enjoys building things for the web and mobile. 🛠️
 
-I work with React, TypeScript, and AWS to create clean, user-friendly applications. I'm always learning and tinkering with new tech.
-
 </p>
 <br>
 <table>
