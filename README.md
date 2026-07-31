@@ -1,6 +1,6 @@
 <h3 align="left">About Me</h3>
 <p>Hey, I'm Mike! 🚀</p>
-<p>Software Developer building things for the web and mobile. 🛠️
+<p>Software Developer building things for the web and mobile.
 
 </p>
 
