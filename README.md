@@ -1,12 +1,6 @@
 <h3 align="left">About Me</h3>
 <p>Hey, I'm Mike! 🚀</p>
-<p>Software Developer building things for the web and mobile.
-
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millerm30&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p>Software Developer always building something</p>
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
