@@ -1,11 +1,4 @@
-<h3 align="left">About Me</h3>
-<p>Hey, I'm Mike! 🚀</p>
-<p>Software Developer always building something</p>
 
-<h3 align="left">Connect With Me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michael-miller-0aa2bb229" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/linked-in-alt.svg" alt="millerm30" height="30" width="40" /></a>
-</p>
 
 <!---
 millerm30/millerm30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
